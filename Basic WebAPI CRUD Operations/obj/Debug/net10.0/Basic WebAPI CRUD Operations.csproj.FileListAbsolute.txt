@@ -1,0 +1,37 @@
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\bin\Debug\net10.0\appsettings.json
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\bin\Debug\net10.0\Basic WebAPI CRUD Operations.staticwebassets.endpoints.json
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\bin\Debug\net10.0\Basic WebAPI CRUD Operations.exe
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\bin\Debug\net10.0\Basic WebAPI CRUD Operations.deps.json
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\bin\Debug\net10.0\Basic WebAPI CRUD Operations.runtimeconfig.json
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\bin\Debug\net10.0\Basic WebAPI CRUD Operations.dll
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\bin\Debug\net10.0\Basic WebAPI CRUD Operations.pdb
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\obj\Debug\net10.0\Basic WebAPI CRUD Operations.csproj.AssemblyReference.cache
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\obj\Debug\net10.0\Basic WebAPI CRUD Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\obj\Debug\net10.0\Basic WebAPI CRUD Operations.AssemblyInfoInputs.cache
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\obj\Debug\net10.0\Basic WebAPI CRUD Operations.AssemblyInfo.cs
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\obj\Debug\net10.0\Basic WebAPI CRUD Operations.csproj.CoreCompileInputs.cache
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\obj\Debug\net10.0\Basic WebAPI CRUD Operations.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\obj\Debug\net10.0\Basic WebAPI CRUD Operations.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\obj\Debug\net10.0\scopedcss\bundle\Basic WebAPI CRUD Operations.styles.css
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\obj\Debug\net10.0\Basic We.EA3B8999.Up2Date
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\obj\Debug\net10.0\Basic WebAPI CRUD Operations.dll
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\obj\Debug\net10.0\refint\Basic WebAPI CRUD Operations.dll
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\obj\Debug\net10.0\Basic WebAPI CRUD Operations.pdb
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\obj\Debug\net10.0\Basic WebAPI CRUD Operations.genruntimeconfig.cache
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\obj\Debug\net10.0\ref\Basic WebAPI CRUD Operations.dll
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MSI Cyborg\Downloads\Basic WebAPI CRUD Operations\Basic WebAPI CRUD Operations\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
